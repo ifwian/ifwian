@@ -1,13 +1,21 @@
+<!-- SWAP BANNER: once you add assets/mikasa.gif, replace the line below with:
+<img src="./assets/mikasa.gif" alt="Mikasa Ackerman banner" width="100%" />
+(or keep it under the animated banner as a second image) -->
 <div align="center">
 
-<!-- Mikasa Ackerman banner GIF (keep under ~5 MB, ~900px wide) -->
-<img src="./assets/aotmikasa.gif" alt="Mikasa Ackerman banner" width="100%" />
+<img src="./assets/banner.svg" alt="Ian — Computer Science Student · Full-Stack Developer" width="100%" />
 
-# Hi, I'm Ian 👋
+<br/>
 
-**Information Technology student · Front-End & Web Development**
+**Computer Science Student · Full-Stack Developer**
 
-<sub>Calamba, Philippines</sub>
+<sub>📍 Calamba, Philippines</sub>
+
+<br/>
+
+<a href="https://iandevs.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-iandevs.vercel.app-b3202a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/ifwian"><img src="https://img.shields.io/badge/GitHub-ifwian-0d0d0f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/ifwiannn/"><img src="https://img.shields.io/badge/LinkedIn-ifwiannn-0d0d0f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -15,11 +23,12 @@
 
 ## 🧣 About me
 
-I'm an Information Technology student who likes building websites and small apps that people can actually use.
-I'm still learning, so a lot of what I know comes from making things, breaking them, and fixing them.
-I'm into front-end work, UI/UX, web technologies, and creative side projects.
+I'm a Computer Science student who enjoys building both the frontend and backend of web applications.
+I learn by shipping practical projects, from reservation sites to full-stack apps, and picking up new tools along the way.
 
 Outside code: photography, badminton, music, and games.
+
+> *Currently building:* **Dear, in Stereo**, a music-sharing platform where songs become private digital letters.
 
 ## 🛠 Tech stack
 
@@ -44,44 +53,39 @@ Outside code: photography, badminton, music, and games.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>The Sifted Café</h3>
-      <p><img src="https://via.placeholder.com/400/FF6B6B/FFFFFF?text=The+Sifted+Café" alt="The Sifted Café preview" style="width:100%; max-width:400px; height:auto; margin-bottom:10px;" /></p>
-      <p>Full-stack café app with a menu, online reservations and an admin dashboard.</p>
-      <p><sub>React · Tailwind CSS · Node.js · Express · PostgreSQL · Prisma</sub></p>
-      <p><a href="https://thesiftedcafe.vercel.app/">Live demo</a> · Repo: <i>add link</i></p>
+      <a href="https://thesiftedcafe.vercel.app/"><img src="./assets/projects/the-sifted-cafe.webp" alt="The Sifted Café screenshot" width="420" /></a>
+      <br/><br/>
+      <a href="https://thesiftedcafe.vercel.app/"><b>🔴 Live Demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/ifwian?tab=repositories">GitHub Repository</a> <sub><i>(TODO: replace with exact repo link)</i></sub>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>FRAME</h3>
-      <p><img src="https://via.placeholder.com/400/4ECDC4/FFFFFF?text=FRAME" alt="FRAME preview" style="width:100%; max-width:400px; height:auto; margin-bottom:10px;" /></p>
-      <p>Reservation site for a gaming lounge: live station availability, hours, pricing and booking.</p>
-      <p><sub>React · Tailwind CSS</sub></p>
-      <p><a href="https://theframegamingcafe.vercel.app/">Live demo</a> · Repo: <i>add link</i></p>
+      <a href="https://theframegamingcafe.vercel.app/"><img src="./assets/projects/frame.webp" alt="FRAME screenshot" width="420" /></a>
+      <br/><br/>
+      <a href="https://theframegamingcafe.vercel.app/"><b>🔴 Live Demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/ifwian?tab=repositories">GitHub Repository</a> <sub><i>(TODO: replace with exact repo link)</i></sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>LMS Notifier</h3>
-      <p><img src="https://via.placeholder.com/400/45B7D1/FFFFFF?text=LMS+Notifier" alt="LMS Notifier preview" style="width:100%; max-width:400px; height:auto; margin-bottom:10px;" /></p>
-      <p>Checks a learning management system for new announcements and notifies users.</p>
-      <p><sub>Python</sub></p>
-      <p><a href="https://lmscompanion.vercel.app/">Live demo</a> · Repo: <i>add link</i></p>
+      <a href="https://lmscompanion.vercel.app/"><img src="./assets/projects/lms-notifier.webp" alt="LMS Notifier screenshot" width="420" /></a>
+      <br/><br/>
+      <a href="https://lmscompanion.vercel.app/"><b>🔴 Live Demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/ifwian?tab=repositories">GitHub Repository</a> <sub><i>(TODO: replace with exact repo link)</i></sub>
     </td>
-    <td width="50%" valign="top">
-      <h3>Dear, in Stereo <sup>in progress</sup></h3>
-      <p><img src="https://via.placeholder.com/400/96CEB4/FFFFFF?text=Dear+in+Stereo" alt="Dear, in Stereo preview" style="width:100%; max-width:400px; height:auto; margin-bottom:10px;" /></p>
-      <p>A music-sharing platform where songs become private digital letters.</p>
-      <p><sub>React · Tailwind CSS</sub></p>
-      <p><a href="https://dearinstereo.vercel.app/">Live demo</a> · Repo: <i>add link</i></p>
+    <td width="50%" align="center" valign="top">
+      <h3>Dear, in Stereo</h3>
+      <a href="https://dearinstereo.vercel.app/"><img src="./assets/projects/dear-in-stereo.webp" alt="Dear, in Stereo screenshot" width="420" /></a>
+      <br/><br/>
+      <a href="https://dearinstereo.vercel.app/"><b>🔴 Live Demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/ifwian?tab=repositories">GitHub Repository</a> <sub><i>(TODO: replace with exact repo link)</i></sub>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>This portfolio</h3>
-      <p><img src="https://via.placeholder.com/400/FE6DA8/FFFFFF?text=This+Portfolio" alt="This portfolio preview" style="width:100%; max-width:400px; height:auto; margin-bottom:10px;" /></p>
-      <p>My personal site, with a Gemini-powered "Chat with Ian" assistant and a private admin inbox.</p>
-      <p><sub>React · TypeScript · Vite · GSAP · Supabase · Vercel</sub></p>
-      <p><a href="https://iandevs.vercel.app/">Live site</a> · <a href="https://github.com/ifwian/Iandevsu">Repository</a></p>
+    <td width="100%" align="center" valign="top" colspan="2">
+      <h3>My Personal Portfolio</h3>
+      <a href="https://iandevs.vercel.app/"><img src="./assets/projects/portfolio.svg" alt="My Personal Portfolio screenshot" width="420" /></a>
+      <br/><br/>
+      <a href="https://iandevs.vercel.app/"><b>🔴 Live Demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/ifwian/Iandevsu">GitHub Repository</a>
     </td>
   </tr>
 </table>
@@ -90,10 +94,10 @@ Outside code: photography, badminton, music, and games.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ifwian&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=b3202a&icon_color=b3202a&text_color=c9c9c9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifwian&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=b3202a&text_color=c9c9c9" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ifwian&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=b3202a&icon_color=b3202a&text_color=c9c9c9&ring_color=b3202a" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifwian&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=b3202a&text_color=c9c9c9" alt="Most used languages" />
 
-<img src="https://streak-stats.demolab.com?user=ifwian&hide_border=true&background=0d0d0f&ring=b3202a&fire=b3202a&currStreakLabel=c9c9c9&sideLabels=c9c9c9&currStreakNum=c9c9c9&sideNums=c9c9c9&dates=8a8a90" alt="Contribution streak" />
+<img height="165" src="https://streak-stats.demolab.com?user=ifwian&hide_border=true&background=0d0d0f&ring=b3202a&fire=b3202a&currStreakLabel=c9c9c9&sideLabels=c9c9c9&currStreakNum=c9c9c9&sideNums=c9c9c9&dates=8a8a90" alt="Contribution streak" />
 
 </div>
 
@@ -105,3 +109,5 @@ Outside code: photography, badminton, music, and games.
   <a href="https://iandevs.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-iandevs.vercel.app-b3202a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:iandevsu@gmail.com"><img src="https://img.shields.io/badge/Email-iandevsu%40gmail.com-0d0d0f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<p align="center"><sub>Tatakae. 🧣</sub></p>
