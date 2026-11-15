@@ -46,9 +46,11 @@ PAL = ["#b3202a", "#d9424d", "#8f1a22", "#e8737b", "#6e141b", "#f0a0a6"]
 
 def card(w, h, title, body):
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="{title}">
-<rect width="{w}" height="{h}" rx="6" fill="{BG}"/>
+<style>.f{{animation:f 1.2s ease both}}@keyframes f{{from{{opacity:0;transform:translateY(6px)}}to{{opacity:1}}}}</style>
+<rect width="{w}" height="{h}" rx="6" fill="{BG}" stroke="#2a1014" stroke-width="1"/>
+<g class="f">
 <text x="25" y="35" font-family="{FONT}" font-size="18" font-weight="700" fill="{RED}">{title}</text>
-{body}</svg>'''
+{body}</g></svg>'''
 
 rows = [("Public Repos", "–" if SEED else len(own)), ("Total Stars", stars), ("Total Commits", commits),
         ("Pull Requests", prs), ("Issues", issues)]

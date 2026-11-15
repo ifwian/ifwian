@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200" role="img" aria-label="Most Used Languages">
-<rect width="300" height="200" rx="6" fill="#0d0d0f"/>
+<style>.f{animation:f 1.2s ease both}@keyframes f{from{opacity:0;transform:translateY(6px)}to{opacity:1}}</style>
+<rect width="300" height="200" rx="6" fill="#0d0d0f" stroke="#2a1014" stroke-width="1"/>
+<g class="f">
 <text x="25" y="35" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#b3202a">Most Used Languages</text>
-<text x="25" y="90" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#8a8a90">Updates on the next workflow run</text></svg>
+<text x="25" y="90" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#8a8a90">Updates on the next workflow run</text></g></svg>
