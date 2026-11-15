@@ -54,20 +54,6 @@ I learn by shipping practical projects: make it, break it, fix it.
 
 </div>
 
-## 🌐 Portfolio
-
-<div align="center">
-
-<a href="https://iandevs.vercel.app/"><img src="./assets/portfolio.webp" alt="Ian's personal portfolio" width="760" /></a>
-
-<br/>
-
-<a href="https://iandevs.vercel.app/"><b>🔴 Live Site</b></a> &nbsp;·&nbsp; <a href="https://github.com/ifwian/Iandevsu"><b>GitHub Repository</b></a>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-</div>
-
 ## 📊 GitHub stats
 
 <div align="center">
