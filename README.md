@@ -1,8 +1,7 @@
 <div align="center">
 
-<!-- MIKASA ANIMATION: put your GIF at assets/mikasa.gif (keep it under ~5 MB, about 900px wide),
-     then replace "assets/banner-placeholder.svg" below with "assets/mikasa.gif". -->
-<img src="assets/banner-placeholder.svg" alt="Mikasa Ackerman banner (placeholder)" width="100%" />
+<!-- Mikasa Ackerman banner GIF (keep under ~5 MB, ~900px wide) -->
+<img src="./assets/aotmikasa.gif" alt="Mikasa Ackerman banner" width="100%" />
 
 # Hi, I'm Ian 👋
 
@@ -47,12 +46,14 @@ Outside code: photography, badminton, music, and games.
   <tr>
     <td width="50%" valign="top">
       <h3>The Sifted Café</h3>
+      <p><img src="https://via.placeholder.com/400/FF6B6B/FFFFFF?text=The+Sifted+Café" alt="The Sifted Café preview" style="width:100%; max-width:400px; height:auto; margin-bottom:10px;" /></p>
       <p>Full-stack café app with a menu, online reservations and an admin dashboard.</p>
       <p><sub>React · Tailwind CSS · Node.js · Express · PostgreSQL · Prisma</sub></p>
       <p><a href="https://thesiftedcafe.vercel.app/">Live demo</a> · Repo: <i>add link</i></p>
     </td>
     <td width="50%" valign="top">
       <h3>FRAME</h3>
+      <p><img src="https://via.placeholder.com/400/4ECDC4/FFFFFF?text=FRAME" alt="FRAME preview" style="width:100%; max-width:400px; height:auto; margin-bottom:10px;" /></p>
       <p>Reservation site for a gaming lounge: live station availability, hours, pricing and booking.</p>
       <p><sub>React · Tailwind CSS</sub></p>
       <p><a href="https://theframegamingcafe.vercel.app/">Live demo</a> · Repo: <i>add link</i></p>
@@ -61,12 +62,14 @@ Outside code: photography, badminton, music, and games.
   <tr>
     <td width="50%" valign="top">
       <h3>LMS Notifier</h3>
+      <p><img src="https://via.placeholder.com/400/45B7D1/FFFFFF?text=LMS+Notifier" alt="LMS Notifier preview" style="width:100%; max-width:400px; height:auto; margin-bottom:10px;" /></p>
       <p>Checks a learning management system for new announcements and notifies users.</p>
       <p><sub>Python</sub></p>
       <p><a href="https://lmscompanion.vercel.app/">Live demo</a> · Repo: <i>add link</i></p>
     </td>
     <td width="50%" valign="top">
       <h3>Dear, in Stereo <sup>in progress</sup></h3>
+      <p><img src="https://via.placeholder.com/400/96CEB4/FFFFFF?text=Dear+in+Stereo" alt="Dear, in Stereo preview" style="width:100%; max-width:400px; height:auto; margin-bottom:10px;" /></p>
       <p>A music-sharing platform where songs become private digital letters.</p>
       <p><sub>React · Tailwind CSS</sub></p>
       <p><a href="https://dearinstereo.vercel.app/">Live demo</a> · Repo: <i>add link</i></p>
@@ -75,6 +78,7 @@ Outside code: photography, badminton, music, and games.
   <tr>
     <td colspan="2" valign="top">
       <h3>This portfolio</h3>
+      <p><img src="https://via.placeholder.com/400/FE6DA8/FFFFFF?text=This+Portfolio" alt="This portfolio preview" style="width:100%; max-width:400px; height:auto; margin-bottom:10px;" /></p>
       <p>My personal site, with a Gemini-powered "Chat with Ian" assistant and a private admin inbox.</p>
       <p><sub>React · TypeScript · Vite · GSAP · Supabase · Vercel</sub></p>
       <p><a href="https://iandevs.vercel.app/">Live site</a> · <a href="https://github.com/ifwian/Iandevsu">Repository</a></p>
