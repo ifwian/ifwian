@@ -1,0 +1,64 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env.local
+.env.*.local
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Production builds
+/dist
+/.next
+/out
+
+# TypeScript
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# supabase
+/.cache/
+
+# Vite
+/.vite/
+
+# Swagger
+*.json.swagger
+
+# Logs
+logs/
+*.log
+
+# Middleware Next.js
+
+# Netlify Function Functions
+/.netlify
+
+# Docusaurus
+/.docusaurus
+
+# Storybook  
+/.storybook/
+
+# Capacitor/Cordova
+/.capacitor/
+/cordova/
+
+# Expo
+.expo/
+
+# Netlify
+# Injected by netlify-cli
+netlify/
+
+# Git
+/.git/
