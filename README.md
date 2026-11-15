@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/aotmikasa.gif" alt="Mikasa Ackerman" width="100%" />
-
 <img src="./assets/header.svg" alt="Ian — Computer Science Student · Web Developer" width="100%" />
 
 <sub>📍 Calamba, Philippines</sub>
