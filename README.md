@@ -1,29 +1,23 @@
-<!-- Drop your real Mikasa GIF at assets/aotmikasa.gif (replaces the placeholder). -->
+<!-- Your real Mikasa GIF goes at assets/aotmikasa.gif (the file in this ZIP is only a placeholder). -->
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Ian — Computer Science Student · Full-Stack Developer" width="100%" />
+<img src="./assets/aotmikasa.gif" alt="Mikasa Ackerman" width="100%" />
+
+<h1>Hi, I'm Ian 🧣</h1>
+
+<b>Computer Science Student · Web Developer</b><br/>
+<sub>📍 Calamba, Philippines</sub>
+
+<p><i>"This world is cruel, and also very beautiful."</i></p>
+
+<p>
+  <a href="https://iandevs.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-iandevs.vercel.app-b3202a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/ifwian"><img src="https://img.shields.io/badge/GitHub-ifwian-0d0d0f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ifwiannn/"><img src="https://img.shields.io/badge/LinkedIn-ifwiannn-0d0d0f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:iandevsu@gmail.com"><img src="https://img.shields.io/badge/Email-iandevsu%40gmail.com-0d0d0f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
-
-<table>
-  <tr>
-    <td width="40%" align="center" valign="middle">
-      <img src="./assets/aotmikasa.gif" alt="Mikasa Ackerman" width="320" />
-    </td>
-    <td width="60%" valign="middle">
-      <h2>Hi, I'm Ian 🧣</h2>
-      <p><b>Computer Science Student · Full-Stack Developer</b><br/>
-      <sub>📍 Calamba, Philippines</sub></p>
-      <p>I build both sides of the web: the interface you see and the backend behind it.
-      I learn by shipping practical projects and picking up new tools along the way.</p>
-      <p><i>"This world is cruel, and also very beautiful."</i> That's how I feel about debugging.</p>
-      <p>
-        <a href="https://iandevs.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-iandevs.vercel.app-b3202a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-        <a href="https://www.linkedin.com/in/ifwiannn/"><img src="https://img.shields.io/badge/LinkedIn-ifwiannn-0d0d0f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
